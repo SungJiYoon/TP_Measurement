@@ -1,5 +1,6 @@
 # 3학년 2학기 [증강현실가상현실] TermProject
 ## 팀원 : 성지윤
+## 핵심기술 : AR Foundation / AR Core 라이브러리를 사용한 평면 감지, Raycast와 1unit = 1미터인점을 활용하여 실제 좌표 구함
 
 ### 개발도구 : Unity
 ### 개발언어 : C#
